@@ -2,29 +2,74 @@
 
 # team member roles
 
-principal-investigator:
-  icon: fa-solid fa-microscope
+pi:
+  icon: fa-solid fa-person-chalkboard
   description: Principal Investigator
 
-postdoc:
-  icon: fa-solid fa-glasses
+current-manager:
+  icon: fa-solid fa-hand-sparkles
+  description: Lab Manager
+
+current-technician:
+  icon: fa-solid fa-screwdriver-wrench
+  description: Research Technician
+
+current-postdoc:
+  icon: fa-solid fa-person-dots-from-line
   description: Postdoctoral Researcher
 
-phd:
+current-phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
-  icon: fa-solid fa-user-graduate
+current-ms:
+  icon: fa-solid fa-building-columns
+  description: MS Student
+
+current-rotation:
+  icon: fa-solid fa-arrows-spin
+  description: Rotation Student
+
+current-undergrad:
+  icon: fa-solid fa-school
   description: Undergraduate Student
 
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
+current-hs:
+  icon: fa-solid fa-seedling
+  description: High School Student
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+# alumni roles
+alum-manager:
+  icon: fa-solid fa-hand-spock
+  description: Former Lab Manager
+
+alum-technician:
+  icon: fa-solid fa-hand-spock
+  description: Former Research Technician
+
+alum-postdoc:
+  icon: fa-solid fa-hand-spock
+  description: Former Postdoctoral Researcher
+
+alum-phd:
+  icon: fa-solid fa-hand-spock
+  description: Former PhD Student
+
+alum-ms:
+  icon: fa-solid fa-hand-spock
+  description: Former MS Student
+
+alum-rotation:
+  icon: fa-solid fa-hand-spock
+  description: Former Rotation Student
+
+alum-undergrad:
+  icon: fa-solid fa-hand-spock
+  description: Former Undergraduate Student
+
+alum-hs:
+  icon: fa-solid fa-hand-spock
+  description: Fomer High School Student
 
 # general
 
