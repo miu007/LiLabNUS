@@ -26,12 +26,10 @@ We develop stem cell-based embryo models, including blastoids, to uncover the pr
 
 {%
   include feature.html
-  image="images/Picture1.png"
+  image="https://www.cell.com/cms/10.1016/j.cell.2019.09.029/asset/061f677f-a24e-449f-b150-57aa67afcecb/main.assets/fx1.jpg"
   link="research"
   title="Our Research"
   text=text
-  max-width: 100%;
-  height: auto;
 %}
 
 {% capture text %}
