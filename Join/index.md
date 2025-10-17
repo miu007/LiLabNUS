@@ -1,23 +1,23 @@
 ---
-title: Opportunities
+title: Join
 nav:
-  order: 5
+  order: 4
   tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-hands-helping" %}Opportunities
+# {% include icon.html icon="fa-solid fa-hands-helping" %}Join Us
 
 We seek to build a multidisciplinary and diverse team of scientists and engineers.  Ronghui is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
 
 {% include section.html %}
 
 ### Postdoctoral scholars
-Funding for various postdoctoral opportunities is available on a rolling basis.  If you are interested our research, you are encouraged to send an inquiry and CV to [ronghui.li@nus.edu.sg](mailto:ronghui.li@nus.edu.sg).  We are particularly interested in candidates with expertise in acute brain slice or retinal electrophysiology, so if you fit this description please be sure to mention it in your inquiry.
+Funding for various postdoctoral opportunities is available on a rolling basis.  If you are interested our research, you are encouraged to send an inquiry and CV to [ronghui.li@nus.edu.sg](mailto:ronghui.li@nus.edu.sg).  We are particularly interested in candidates with expertise in cell biology and regenerative medicine, so if you fit this description please be sure to mention it in your inquiry.
 
-### Doctoral students
-We accept graduate students who have already been admitted to one of the following programs: 
+### Doctoral and Master students
+We accept graduate students who have already been admitted to School of Medicine Graduate Programme: 
 
-[NUS Medicine Graduate Program](https://bme.gatech.edu/bme/georgia-tech-emory-bme-phd-program) <br>
+[NUS School of Medicine Graduate Programme](https://medicine.nus.edu.sg/graduatestudies/application-procedures/) <br>
 
 
 **We cannot directly admit graduate students into our lab.** However, if you are interested in our research, we encourage you to apply to one (or more) of the programs above.  On your application, you can list our lab as one that interests you.  If you are invited for an interview, please reach out and we will try our best to be placed on your interview schedule.  If you are offered admission and want to learn specific details about ongoing projects or joining the lab for your PhD studies (or a research rotation), please contact [ronghui.li@nus.edu.sg](mailto:ronghui.li@nus.edu.sg).
