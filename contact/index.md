@@ -37,14 +37,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/1920_wsb1-1267351765.jpg"
-  caption="S9 Wet Science Building"
+  caption=""
 %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7978734415537!2d103.78020803488968!3d1.2958822242022032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bc911595d3d%3A0xd684eb7b6242d35c!2sNUS%20S9%20Wet%20Science%20Building!5e0!3m2!1sen!2ssg!4v1760685171475!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7978734415537!2d103.78020803488968!3d1.2958822242022032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1bc911595d3d%3A0xd684eb7b6242d35c!2sNUS%20S9%20Wet%20Science%20Building!5e0!3m2!1sen!2ssg!4v1760685171475!5m2!1sen!2ssg" width="600" height="337.5" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 {% endcapture %}
 
@@ -53,7 +53,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-We are part of the [Department of Biochemistry](https://medicine.nus.edu.sg/bch/faculty/li-ronghui/), Yong Loo Lin School of Medicine at National University of Singapore.
+We are part of the 
+[Department of Biochemistry](https://medicine.nus.edu.sg/bch/faculty/li-ronghui/), 
+Yong Loo Lin School of Medicine, 
+National University of Singapore.
 {% endcapture %}
 
 {% capture col2 %}
