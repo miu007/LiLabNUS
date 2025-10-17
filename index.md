@@ -18,7 +18,7 @@ We also generate functional cell types for applications in regenerative medicine
 
 {%
   include button.html
-  link="Publications"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -33,6 +33,8 @@ We also generate functional cell types for applications in regenerative medicine
   link="Publications"
   title="Our Publications"
   text=text
+  width="100%"
+  height="60%"
 %}
 
 {% capture text %}
@@ -41,7 +43,7 @@ We are engineering synthetic structures, we aim to model implantation, lineage s
 
 {%
   include button.html
-  link="Research"
+  link="research"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
