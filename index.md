@@ -1,9 +1,9 @@
 ---
 ---
 
-# miu007's Website
+# Enhance Cells and Multicellular Structure through Synthetic Biology
 
-An engaging 1-3 sentence description of your lab.
+At SynDevBio Lab, we engineer multicellular systems to decode developmental biology and pioneer regenerative therapies. By integrating synthetic biology, stem cell culture, and 3D models, we create novel platforms for studying cell fate, disease, and drug discovery.
 
 {% include section.html %}
 
