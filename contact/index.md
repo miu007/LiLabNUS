@@ -37,7 +37,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/1920_wsb1-1267351765.jpg"
-  caption="NUS S9 Building"
+  caption="We are part of the Department of Biochemistry and Synthetic Biology for Clinical and Technological Innovation at National University of Singapore. The lab is located on the Kent Ridge campus on the 10th floor of the S9 Wet Science building. 
+
+Address: 4 Science Drive 2, S(117544) [map](https://maps.app.goo.gl/QnYWaUy9QdrF8Ubv6)"
 %}
 
 {% endcapture %}
