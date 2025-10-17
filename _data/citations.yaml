@@ -199,27 +199,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -235,30 +219,158 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41422-022-00686-y
+  title: Towards capturing of totipotency
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Cuiqing Zhong
+  - Ronghui Li
+  - Juan Carlos Izpisua Belmonte
+  publisher: Cell Research
+  date: '2022-07-05'
+  link: https://doi.org/g967fd
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41422-022-00686-y/MediaObjects/41422_2022_686_Fig1_HTML.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1016/j.cell.2022.01.005
+  title: 'Time matters: Human blastoids resemble the sequence of blastocyst development'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - Ronghui Li
+  - Cuiqing Zhong
+  - Juan Carlos Izpisua Belmonte
+  publisher: Cell
+  date: '2022-02-01'
+  link: https://doi.org/g967fg
+  image: https://www.cell.com/cms/10.1016/j.cell.2022.01.005/attachment/34905e09-e087-414f-8d05-4ac5b2dcf58f/mmc3.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41422-021-00609-3
+  title: Transcriptomic profiling fuels the derivation of stable pig epiblast stem
+    cells
+  authors:
+  - Cuiqing Zhong
+  - Ronghui Li
+  - Juan Carlos Izpisua Belmonte
+  publisher: Cell Research
+  date: '2022-01-12'
+  link: https://doi.org/g967gr
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41422-021-00609-3/MediaObjects/41422_2021_609_Fig1_HTML.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2025.07.031
+  title: Prevalent mesenchymal drift in aging and disease is reversed by partial reprogramming
+  authors:
+  - Jinlong Y. Lu
+  - William B. Tu
+  - Ronghui Li
+  - Mingxi Weng
+  - Bhargav D. Sanketi
+  - Baolei Yuan
+  - Pradeep Reddy
+  - Concepcion Rodriguez Esteban
+  - Juan Carlos Izpisua Belmonte
+  publisher: Cell
+  date: '2025-10-01'
+  link: https://doi.org/g9w8t2
+  image: https://www.cell.com/cms/10.1016/j.ccell.2025.03.031/attachment/aed5f8d5-eb46-493b-a07e-fc5388c6055e/mmc5.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13059-024-03283-x
+  title: In vivo rescue of genetic dilated cardiomyopathy by systemic delivery of
+    nexilin
+  authors:
+  - Yanjiao Shao
+  - Canzhao Liu
+  - Hsin-Kai Liao
+  - Ran Zhang
+  - Baolei Yuan
+  - Hanyan Yang
+  - Ronghui Li
+  - Siting Zhu
+  - Xi Fang
+  - Concepcion Rodriguez Esteban
+  - Ju Chen
+  - Juan Carlos Izpisua Belmonte
+  publisher: Genome Biology
+  date: '2024-05-23'
+  link: https://doi.org/g967fk
+  image: https://genomebiology.biomedcentral.com/docserver/fulltext/13059_2024_3283_Fig1_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xpro.2021.100745
+  title: Protocol for the generation of blastocyst-like structures from mouse extended
+    pluripotent stem cells
+  authors:
+  - Ronghui Li
+  - Juan Carlos Izpisua Belmonte
+  publisher: STAR Protocols
+  date: '2021-09-01'
+  link: https://doi.org/grpq9s
+  image: https://www.cell.com/cms/10.1016/j.xpro.2021.100745/attachment/6624b2ed-558b-4de0-a098-191e1687c57f/mmc1.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-021-23525-x
+  title: "Chemical combinations potentiate human pluripotent stem cell-derived 3D\
+    \ pancreatic progenitor clusters toward functional \u03B2 cells"
+  authors:
+  - Haisong Liu
+  - Ronghui Li
+  - Hsin-Kai Liao
+  - Zheying Min
+  - Chao Wang
+  - Yang Yu
+  - Lei Shi
+  - Jiameng Dan
+  - Alberto Hayek
+  - Llanos Martinez Martinez
+  - "Estrella Nu\xF1ez Delicado"
+  - Juan Carlos Izpisua Belmonte
+  publisher: Nature Communications
+  date: '2021-06-07'
+  link: https://doi.org/gkf5bg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-23525-x/MediaObjects/41467_2021_23525_Fig1_HTML.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2019.09.029
+  title: Generation of Blastocyst-like Structures from Mouse Embryonic and Adult Cell
+    Cultures
+  authors:
+  - Ronghui Li
+  - Cuiqing Zhong
+  - Yang Yu
+  - Haisong Liu
+  - Masahiro Sakurai
+  - Leqian Yu
+  - Zheying Min
+  - Lei Shi
+  - Yulei Wei
+  - Yuta Takahashi
+  - Hsin-Kai Liao
+  - Jie Qiao
+  - Hongkui Deng
+  - "Estrella Nu\xF1ez-Delicado"
+  - Concepcion Rodriguez Esteban
+  - Jun Wu
+  - Juan Carlos Izpisua Belmonte
+  publisher: Cell
+  date: '2019-10-01'
+  link: https://doi.org/dcvw
+  image: https://www.cell.com/cms/10.1016/j.joule.2019.09.009/attachment/e88fc1b8-0858-4dcf-b970-2a958c486891/mmc1.pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.33417
+  title: Mechanism and consequence of abnormal calcium homeostasis in Rett syndrome
+    astrocytes
+  authors:
+  - Qiping Dong
+  - Qing Liu
+  - Ronghui Li
+  - Anxin Wang
+  - Qian Bu
+  - Kuan Hong Wang
+  - Qiang Chang
   publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  date: '2018-03-29'
+  link: https://doi.org/gnf2hx
+  image: https://elifesciences.org/articles/33417/figures/8
   plugin: sources.py
   file: sources.yaml
