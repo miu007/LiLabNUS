@@ -1,23 +1,26 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+- id: doi:10.1038/s41422-022-00686-y
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41422-022-00686-y/MediaObjects/41422_2022_686_Fig1_HTML.png
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1016/j.cell.2022.01.005
+  image: https://www.cell.com/cms/10.1016/j.cell.2022.01.005/attachment/34905e09-e087-414f-8d05-4ac5b2dcf58f/mmc3.pdf
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1038/s41422-021-00609-3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41422-021-00609-3/MediaObjects/41422_2021_609_Fig1_HTML.png
+
+- id: doi:10.1016/j.cell.2025.07.031
+  image: https://www.cell.com/cms/10.1016/j.ccell.2025.03.031/attachment/aed5f8d5-eb46-493b-a07e-fc5388c6055e/mmc5.pdf
+
+- id: doi:10.1186/s13059-024-03283-x
+  image: https://genomebiology.biomedcentral.com/docserver/fulltext/13059_2024_3283_Fig1_HTML.jpg
+
+- id: doi:10.1016/j.xpro.2021.100745
+  image: https://www.cell.com/cms/10.1016/j.xpro.2021.100745/attachment/6624b2ed-558b-4de0-a098-191e1687c57f/mmc1.pdf
+
+- id: doi:10.1038/s41467-021-23525-x
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-23525-x/MediaObjects/41467_2021_23525_Fig1_HTML.png
+
+- id: doi:10.1016/j.cell.2019.09.029
+  image: https://www.cell.com/cms/10.1016/j.joule.2019.09.009/attachment/e88fc1b8-0858-4dcf-b970-2a958c486891/mmc1.pdf
+
+- id: doi:10.7554/eLife.33417
+  image: https://elifesciences.org/articles/33417/figures/8
