@@ -1,7 +1,7 @@
 ---
 name: Ronghui Li
-image: images/photo.jpg
-role: principal-investigator
+image: images/selfie-ronghui.jpeg
+role: pi
 affiliation: National University of Singapore
 aliases:
 links:
