@@ -228,7 +228,7 @@
   publisher: Cell Research
   date: '2022-07-05'
   link: https://doi.org/g967fd
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41422-022-00686-y/MediaObjects/41422_2022_686_Fig1_HTML.png
+  image: https://example.com/image-for-10.1038_s41422-022-00686-y.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2022.01.005
@@ -240,7 +240,7 @@
   publisher: Cell
   date: '2022-02-01'
   link: https://doi.org/g967fg
-  image: https://www.cell.com/cms/10.1016/j.cell.2022.01.005/attachment/34905e09-e087-414f-8d05-4ac5b2dcf58f/mmc3.pdf
+  image: https://example.com/image-for-10.1016_j.cell.2022.01.005.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41422-021-00609-3
@@ -253,7 +253,7 @@
   publisher: Cell Research
   date: '2022-01-12'
   link: https://doi.org/g967gr
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41422-021-00609-3/MediaObjects/41422_2021_609_Fig1_HTML.png
+  image: https://example.com/image-for-10.1038_s41422-021-00609-3.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2025.07.031
@@ -271,7 +271,7 @@
   publisher: Cell
   date: '2025-10-01'
   link: https://doi.org/g9w8t2
-  image: https://www.cell.com/cms/10.1016/j.ccell.2025.03.031/attachment/aed5f8d5-eb46-493b-a07e-fc5388c6055e/mmc5.pdf
+  image: https://example.com/image-for-10.1016_j.cell.2025.07.031.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13059-024-03283-x
@@ -293,7 +293,7 @@
   publisher: Genome Biology
   date: '2024-05-23'
   link: https://doi.org/g967fk
-  image: https://genomebiology.biomedcentral.com/docserver/fulltext/13059_2024_3283_Fig1_HTML.jpg
+  image: https://example.com/image-for-10.1186_s13059-024-03283-x.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.xpro.2021.100745
@@ -305,7 +305,21 @@
   publisher: STAR Protocols
   date: '2021-09-01'
   link: https://doi.org/grpq9s
-  image: https://www.cell.com/cms/10.1016/j.xpro.2021.100745/attachment/6624b2ed-558b-4de0-a098-191e1687c57f/mmc1.pdf
+  image: https://example.com/image-for-10.1016_j.xpro.2021.100745.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21203/rs.3.pex-1413/v1
+  title: "Differentiation protocol for generating functional pancreatic \u03B2 cells\
+    \ from human pluripotent stem cells"
+  authors:
+  - Haisong Liu
+  - Ronghui Li
+  - Hsin-Kai Liao
+  - Juan Carlos Izpisua Belmonte
+  publisher: Springer Science and Business Media LLC
+  date: '2021-06-08'
+  link: https://doi.org/g966mz
+  image: https://example.com/image-for-10.21203_rs.3.pex-1413_v1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-021-23525-x
@@ -327,7 +341,7 @@
   publisher: Nature Communications
   date: '2021-06-07'
   link: https://doi.org/gkf5bg
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-23525-x/MediaObjects/41467_2021_23525_Fig1_HTML.png
+  image: https://example.com/image-for-10.1038_s41467-021-23525-x.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2019.09.029
@@ -354,7 +368,7 @@
   publisher: Cell
   date: '2019-10-01'
   link: https://doi.org/dcvw
-  image: https://www.cell.com/cms/10.1016/j.joule.2019.09.009/attachment/e88fc1b8-0858-4dcf-b970-2a958c486891/mmc1.pdf
+  image: https://example.com/image-for-10.1016_j.cell.2019.09.029.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.33417
@@ -371,6 +385,133 @@
   publisher: eLife
   date: '2018-03-29'
   link: https://doi.org/gnf2hx
-  image: https://elifesciences.org/articles/33417/figures/8
+  image: https://example.com/image-for-10.7554_eLife.33417.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1523/JNEUROSCI.3735-16.2017
+  title: CREB Signaling Is Involved in Rett Syndrome Pathogenesis
+  authors:
+  - Qian Bu
+  - Anxin Wang
+  - Hamdi Hamzah
+  - Alex Waldman
+  - Keer Jiang
+  - Qiping Dong
+  - Ronghui Li
+  - Jason Kim
+  - Daniel Turner
+  - Qiang Chang
+  publisher: The Journal of Neuroscience
+  date: '2017-03-07'
+  link: https://doi.org/f92ksb
+  image: https://example.com/image-for-10.1523_JNEUROSCI.3735-16.2017.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pgen.1006129
+  title: Misregulation of Alternative Splicing in a Mouse Model of Rett Syndrome
+  authors:
+  - Ronghui Li
+  - Qiping Dong
+  - Xinni Yuan
+  - Xin Zeng
+  - Yu Gao
+  - Cassandra Chiao
+  - Hongda Li
+  - Xinyu Zhao
+  - Sunduz Keles
+  - Zefeng Wang
+  - Qiang Chang
+  publisher: PLOS Genetics
+  date: '2016-06-28'
+  link: https://doi.org/f8wb4f
+  image: https://example.com/image-for-10.1371_journal.pgen.1006129.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/hmg/ddu008
+  title: Mutant astrocytes differentiated from Rett syndrome patients-specific iPSCs
+    have adverse effects on wild-type neurons
+  authors:
+  - Emily Cunningham Williams
+  - Xiaofen Zhong
+  - Ahmed Mohamed
+  - Ronghui Li
+  - Yan Liu
+  - Qiping Dong
+  - Gene E. Ananiev
+  - Jonathan Chern Choong Mok
+  - Benjamin Ray Lin
+  - Jianfeng Lu
+  - Cassandra Chiao
+  - Rachel Cherney
+  - Hongda Li
+  - Su-Chun Zhang
+  - Qiang Chang
+  publisher: Human Molecular Genetics
+  date: '2014-01-12'
+  link: https://doi.org/f55h9j
+  image: https://example.com/image-for-10.1093_hmg_ddu008.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1074/jbc.M110.139436
+  title: Towards an Optimized Culture Medium for the Generation of Mouse Induced Pluripotent
+    Stem Cells
+  authors:
+  - Jiekai Chen
+  - Jing Liu
+  - Qingkai Han
+  - Dajiang Qin
+  - Jianyong Xu
+  - You Chen
+  - Jiaqi Yang
+  - Hong Song
+  - Dongshan Yang
+  - Meixiu Peng
+  - Wenzhi He
+  - Ronghui Li
+  - Hao Wang
+  - Yi Gan
+  - Ke Ding
+  - Lingwen Zeng
+  - Liangxue Lai
+  - Miguel A. Esteban
+  - Duanqing Pei
+  publisher: Journal of Biological Chemistry
+  date: '2010-10-01'
+  link: https://doi.org/dx29dx
+  image: https://example.com/image-for-10.1074_jbc.M110.139436.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.stem.2010.04.014
+  title: A Mesenchymal-to-Epithelial Transition Initiates and Is Required for the
+    Nuclear Reprogramming of Mouse Fibroblasts
+  authors:
+  - Ronghui Li
+  - Jialiang Liang
+  - Su Ni
+  - Ting Zhou
+  - Xiaobing Qing
+  - Huapeng Li
+  - Wenzhi He
+  - Jiekai Chen
+  - Feng Li
+  - Qiang Zhuang
+  - Baoming Qin
+  - Jianyong Xu
+  - Wen Li
+  - Jiayin Yang
+  - Yi Gan
+  - Dajiang Qin
+  - Shipeng Feng
+  - Hong Song
+  - Dongshan Yang
+  - Biliang Zhang
+  - Lingwen Zeng
+  - Liangxue Lai
+  - Miguel Angel Esteban
+  - Duanqing Pei
+  publisher: Cell Stem Cell
+  date: '2010-07-01'
+  link: https://doi.org/cd44q5
+  image: https://example.com/image-for-10.1016_j.stem.2010.04.014.jpg
   plugin: sources.py
   file: sources.yaml
