@@ -11,11 +11,14 @@ At SynDevBio Lab, we engineer multicellular systems to decode developmental biol
 
 {% capture text %}
 
-We develop stem cell-based embryo models, including blastoids, to uncover the principles of early development. By engineering these synthetic structures, we aim to model implantation, lineage specification, and morphogenesis, offering powerful platforms for studying developmental disorders and advancing regenerative medicine.
+We engineer cell fate.
+We reprogram somatic cells to a pluripotent, embryonic-like state.
+We transform stem cells into embryo models to uncover the fundamental principles of early development.
+We also generate functional cell types for applications in regenerative medicine.
 
 {%
   include button.html
-  link="research"
+  link="Publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,18 +30,18 @@ We develop stem cell-based embryo models, including blastoids, to uncover the pr
 {%
   include feature.html
   image="https://www.cell.com/cms/10.1016/j.cell.2019.09.029/asset/061f677f-a24e-449f-b150-57aa67afcecb/main.assets/fx1.jpg"
-  link="research"
-  title="Our Research"
+  link="Publications"
+  title="Our Publications"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are engineering synthetic structures, we aim to model implantation, lineage specification, and morphogenesis, offering powerful platforms for studying developmental disorders and advancing regenerative medicine.
 
 {%
   include button.html
-  link="projects"
+  link="Research"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -50,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="Research"
   title="Our Projects"
   flip=true
   style="bare"
@@ -59,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a vibriant and multidisciplinary team working together to solve challenging problems and develop therapeutics for human diseases!
 
 {%
   include button.html
