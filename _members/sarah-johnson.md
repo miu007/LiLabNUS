@@ -1,11 +1,11 @@
 ---
-name: Sarah Johnson
+name: Quanbo Liu
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: 
+role: current-phd
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: 
+  twitter: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

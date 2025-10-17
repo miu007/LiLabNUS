@@ -1,8 +1,7 @@
 ---
-name: John Doe
+name: Xinwen Pan
 image: images/photo.jpg
-role: current-phd
-group: alum
+role: current-postdoc
 links:
   github: john-doe
 ---
