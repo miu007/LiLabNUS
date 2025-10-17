@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@miu007.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: ronghui.li@nus.edu.sg
+  orcid: 0000-0001-6329-5895
+  google-scholar: LgS14ZAAAAAJ
   github: miu007
-  twitter: miu007
-  youtube: miu007
+  twitter: Ronghui_Li
+  youtube: 
 
 ### jekyll settings
 
