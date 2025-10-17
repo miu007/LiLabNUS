@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: Li Lab
-subtitle: 
+subtitle: <u>S<u>ynthetic <u>D<u>evelopmental <u>B<u>iology (SDB) Lab
 description: At SynDevBio Lab, we engineer multicellular systems to decode developmental biology and pioneer regenerative therapies. By integrating synthetic biology, stem cell culture, and 3D models, we create novel platforms for studying cell fate, disease, and drug discovery.
 header: images/bg.jpg
-footer: images/bg.jpg
+footer: images/bg2.png
 proofer: false
 
 # site social media and other links
@@ -11,9 +11,7 @@ links:
   email: ronghui.li@nus.edu.sg
   orcid: 0000-0001-6329-5895
   google-scholar: LgS14ZAAAAAJ
-  github:
   twitter: Ronghui_Li
-  youtube: 
 
 ### jekyll settings
 
