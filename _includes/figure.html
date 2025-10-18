@@ -17,7 +17,7 @@
       {% include fallback.html %}
     >
   </a>
-  {% if include.caption %}
+  {% if include.caption and include.caption != "" %}
     <figcaption class="figure-caption">
       {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
     </figcaption>

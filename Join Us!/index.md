@@ -2,7 +2,7 @@
 title: Join Us!
 nav:
   order: 4
-  tooltip: 
+  tooltip: Anyone is welcome!
 ---
 
 # {% include icon.html icon="fa-solid fa-hands-helping" %}Join Us

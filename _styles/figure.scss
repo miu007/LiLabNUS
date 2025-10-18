@@ -25,6 +25,10 @@
   text-align: center;
 }
 
+.figure-caption:empty {
+  display: none;
+}
+
 .map-container {
   position: relative;
   width: 100%;
