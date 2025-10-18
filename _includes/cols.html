@@ -1,7 +1,8 @@
 <div class="cols" style="--cols: {{ include | object_items | size }}; --cols-ratio: {{ include.ratio | default: 'repeat(var(--repeat), 1fr)' }};">
   {% for param in include %}
     {% assign key = param[0] %}
-    <div>{{ include[key] | markdownify }}</div>
+    {% unless key == "ratio" %}
+      <div>{{ include[key] | markdownify }}</div>
+    {% endunless %}
   {% endfor %}
 </div>
-
