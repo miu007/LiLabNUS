@@ -1,6 +1,6 @@
 <div class="profile-card">
   <div class="profile-image">
-    {{ include.image | relative_url }}
+    <img src="{{ include.image | relative_url }}" alt="Profile image" />
   </div>
   <div class="profile-text">
     <p><strong>{{ include.name }}</strong></p>

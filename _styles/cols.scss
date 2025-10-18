@@ -37,3 +37,21 @@ $one: 500px;
     --repeat: min(1, var(--cols));
   }
 }
+
+.cols--split {
+  position: relative;
+}
+
+.cols--split > div:first-child {
+  position: relative;
+}
+
+.cols--split > div:first-child::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -20px; /* adjust based on your gap */
+  width: 1px;
+  height: 100%;
+  background-color: var(--border-muted, #ccc);
+}

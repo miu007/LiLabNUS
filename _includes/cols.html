@@ -6,3 +6,13 @@
     {% endunless %}
   {% endfor %}
 </div>
+
+
+<div class="cols{% if include.ratio %} cols--split{% endif %}" style="--cols: {{ include | object_items | size }}; --cols-ratio: {{ include.ratio | default: 'repeat(var(--repeat), 1fr)' }};">
+  {% for param in include %}
+    {% assign key = param[0] %}
+    {% unless key == "ratio" %}
+      <div>{{ include[key] | markdownify }}</div>
+    {% endunless %}
+  {% endfor %}
+</div>
