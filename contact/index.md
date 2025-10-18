@@ -55,23 +55,24 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html dark=true %}
 
+## Who we are 
+
 {% capture col1 %}
-We are part of the 
-[Department of Biochemistry](https://medicine.nus.edu.sg/bch/faculty/li-ronghui/), 
-Yong Loo Lin School of Medicine, 
-National University of Singapore.
+We are part of the  
+[Department of Biochemistry](https://medicine.nus.edu.sg/bch/faculty/li-ronghui/)  
+at NUSMed.
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+We are part of NUS  
+Synthetic Biology for Clinical  
+and Technological Innovation.
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+We are part of National  
+Center for Engineering  
+Biology.
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
