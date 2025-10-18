@@ -27,7 +27,7 @@
 }
 
 .map-container {
-  aspect-ratio: 3/2; /* Matches 3:2 image */
+  aspect-ratio: 16/9; /* Matches 3:2 image */
   width: 100%;
   overflow: hidden;
   border-radius: var(--rounded);
@@ -36,8 +36,16 @@
 
 .map-container iframe {
   width: 100%;
-  height: auto;
+  height: 100%;
   border: 0;
+}
+
+.map-caption {
+  text-align: center;
+  font-size: var(--small);
+  font-family: var(--body);
+  margin-top: 0.5rem;
+  color: var(--text-muted);
 }
 
 /*# sourceMappingURL=figure.css.map */
