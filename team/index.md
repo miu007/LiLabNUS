@@ -9,13 +9,9 @@ nav:
 
 {% include section.html %}
 
-## PI
+## Current Members
 
 {% include list.html  data="members"  component="portrait"  filter="role == 'pi'" %}
-
-{% include section.html %}
-
-## Current Members
 {% include list.html  data="members"  component="portrait"  filter="role == 'current-manager'" %}
 {% include list.html  data="members"  component="portrait"  filter="role == 'current-technician'" %}
 {% include list.html  data="members"  component="portrait"  filter="role == 'current-postdoc'" %}
