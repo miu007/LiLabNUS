@@ -1,1 +1,1 @@
-Sitemap: https://miu007.github.io/LiLab/sitemap.xml
+Sitemap: https://miu007.github.io/LiLabNUS/sitemap.xml
