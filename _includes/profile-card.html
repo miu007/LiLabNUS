@@ -1,0 +1,9 @@
+<div class="profile-card">
+  <div class="profile-image">
+    {{ include.image | relative_url }}
+  </div>
+  <div class="profile-text">
+    <p><strong>{{ include.name }}</strong></p>
+    <p>{{ include.bio }}</p>
+    <p><a class="profile-link" href="{{ include.link | relative_url }}">Full Bio →</a></p>
+</div>

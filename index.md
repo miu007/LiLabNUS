@@ -12,10 +12,14 @@ At SynDevBio Lab, we engineer multicellular systems to decode developmental biol
 
 {% capture col2 %}
 
-{%
-  include figure.html
-  image="images/headshot/ronghui-li.jpeg"
+
+{% include profile-card.html
+   image="/images/headshots/ronghui-li.jpeg"
+   name="Ronghui Li, Ph.D."
+   bio="Ronghui Li, Ph.D., received his Ph.D. from the University of Wisconsin-Madison, USA, with a major in Cellular…"
+   link="/team/ronghui-li"
 %}
+
 
 {% endcapture %}
 
