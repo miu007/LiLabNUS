@@ -38,8 +38,8 @@ The lab is located on the NUS Kent Ridge campus on the 10th floor of the S9 Wet 
 
 <div class="image-container">
 
-  <img src="images/1920_wsb1-1267351765.jpg" alt="NUS S9 Wet Science Building">
-  
+  <img src="/images/1920_wsb1-1267351765.jpg" alt="NUS S9 Wet Science Building">
+
 </div>
 
 {% endcapture %}
