@@ -48,4 +48,8 @@
   background-color: var(--border-muted, #ccc);
 }
 
+.cols--split {
+  gap: 60px; /* or whatever spacing you prefer */
+}
+
 /*# sourceMappingURL=cols.css.map */
