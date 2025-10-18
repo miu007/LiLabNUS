@@ -1,4 +1,17 @@
-<div class="cols{% if include.ratio %} cols--split{% endif %}" style="--cols: {{ include | object_items | size }}; --cols-ratio: {{ include.ratio | default: 'repeat(var(--repeat), 1fr)' }};">
+{% assign ratio_parts = include.ratio | split: " " %}
+{% assign total = 0 %}
+{% for part in ratio_parts %}
+  {% assign total = total | plus: part | remove: "fr" %}
+{% endfor %}
+
+{% assign left_ratio = ratio_parts[0] | remove: "fr" %}
+{% assign divider_position = left_ratio | times: 100 | divided_by: total %}
+
+<div class="cols{% if include.ratio %} cols--split{% endif %}" style="
+  --cols: {{ include | object_items | size }};
+  --cols-ratio: {{ include.ratio | default: 'repeat(var(--repeat), 1fr)' }};
+  --divider-position: {{ divider_position }}%;
+">
   {% for param in include %}
     {% assign key = param[0] %}
     {% unless key == "ratio" %}
