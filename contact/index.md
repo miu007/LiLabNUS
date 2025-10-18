@@ -1,15 +1,13 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We welcome anyone interested in our research to reach out and explore opportunities to join us or collaborate. You can find contact details on this page.
 
 {%
   include button.html
@@ -31,6 +29,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 
 {% include section.html %}
+
+## Directions
+
+The lab is located on the NUS Kent Ridge campus on the 10th floor of the S9 Wet Science Building. 
 
 {% capture col1 %}
 
@@ -55,7 +57,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html dark=true %}
 
-## Who we are 
+## Our Affiliations 
 
 {% capture col1 %}
 We are part of the  
