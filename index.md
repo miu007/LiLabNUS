@@ -13,18 +13,13 @@ At SynDevBio Lab, we engineer multicellular systems to decode developmental biol
 {% capture col2 %}
 
 {%
-  include feature.html
-  image="https://www.cell.com/cms/10.1016/j.cell.2019.09.029/asset/061f677f-a24e-449f-b150-57aa67afcecb/main.assets/fx1.jpg"
-  link="Publications"
-  title="Our Publications"
-  text=text
-  width="100%"
-  height="60%"
+  include figure.html
+  image="images/headshot/ronghui-li.jpeg"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 col2=col2 ratio="5fr 3fr" %}
 
 {% include section.html %}
 
