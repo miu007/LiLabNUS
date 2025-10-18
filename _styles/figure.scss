@@ -30,7 +30,15 @@
 }
 
 .map-container {
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 3 / 2; /* Matches 3:2 image */
   width: 100%;
   overflow: hidden;
+  border-radius: var(--rounded);
+  box-shadow: var(--shadow);
+}
+
+.map-container iframe {
+  width: 100%;
+  height: auto;
+  border: 0;
 }
