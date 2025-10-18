@@ -16,6 +16,7 @@
       loading="lazy"
       alt="{{ include.title | default: "feature image" | regex_strip }}"
       {% include fallback.html %}
+      style="width: 100%; height: 100%; object-fit: contain; background-color:#fff"
     >
   </a>
   <div class="feature-text">
