@@ -37,7 +37,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/1920_wsb1-1267351765.jpg"
-  caption=""
 %}
 
 {% endcapture %}
