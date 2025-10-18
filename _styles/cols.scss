@@ -1,5 +1,9 @@
 ---
 ---
+
+$two: 750px;
+$one: 500px;
+
 .cols {
   display: grid;
   --repeat: min(3, var(--cols));
@@ -7,35 +11,52 @@
   align-items: flex-start;
   gap: 40px;
   margin: 40px 0;
-  position: relative;
+
 }
 
-.cols--split {
-  gap: 100px; /* wider spacing when split */
+.cols > * {
+  min-width: 0;
+  min-height: 0;
 }
 
-.cols--split::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: var(--divider-position, 50%);
-  width: 1px;
-  background-color: var(--border-muted, #ccc);
+.cols > div > :first-child {
+  margin-top: 0 !important;
 }
 
-@media (max-width: 750px) {
+.cols > div > :last-child {
+  margin-bottom: 0 !important;
+}
+
+@media (max-width: $two) {
   .cols {
     --repeat: min(2, var(--cols));
   }
-
-  .cols--split::before {
-    display: none;
-  }
 }
 
-@media (max-width: 500px) {
+@media (max-width: $one) {
   .cols {
     --repeat: min(1, var(--cols));
   }
+}
+
+.cols--split {
+  position: relative;
+}
+
+.cols--split > div:first-child {
+  position: relative;
+}
+
+.cols--split > div:first-child::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -50px; /* adjust based on your gap */
+  width: 1px;
+  height: 200%;
+  background-color: var(--border-muted, #ccc);
+}
+
+.cols--split {
+  gap: 100px; /* or whatever spacing you prefer */
 }
