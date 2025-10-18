@@ -1,9 +1,30 @@
 ---
 ---
+{% include section.html %}
+
+{% capture col1 %}
 
 # Enhance Cells and Multicellular Structure through Synthetic Biology
 
 At SynDevBio Lab, we engineer multicellular systems to decode developmental biology and pioneer regenerative therapies. By integrating synthetic biology, stem cell culture, and 3D models, we create novel platforms for studying cell fate, disease, and drug discovery.
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include feature.html
+  image="https://www.cell.com/cms/10.1016/j.cell.2019.09.029/asset/061f677f-a24e-449f-b150-57aa67afcecb/main.assets/fx1.jpg"
+  link="Publications"
+  title="Our Publications"
+  text=text
+  width="100%"
+  height="60%"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
 
