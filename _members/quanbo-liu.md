@@ -1,6 +1,6 @@
 ---
 name: Quanbo Liu
-image: images/photo.jpg
+image: images/headshots/quanbo.jpg
 description: 
 role: current-phd
 links:
