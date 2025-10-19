@@ -20,16 +20,6 @@
   margin-bottom: 0 !important;
 }
 
-@media (max-width: 750px) {
-  .cols {
-    --repeat: min(2, var(--cols));
-  }
-}
-@media (max-width: 500px) {
-  .cols {
-    --repeat: min(1, var(--cols));
-  }
-}
 .cols--split {
   position: relative;
 }
@@ -50,6 +40,19 @@
 
 .cols--split {
   gap: 100px; /* or whatever spacing you prefer */
+}
+
+@media (max-width: 750px) {
+  .cols,
+  .cols--split {
+    --repeat: min(2, var(--cols));
+  }
+}
+@media (max-width: 500px) {
+  .cols,
+  .cols--split {
+    --repeat: min(1, var(--cols));
+  }
 }
 
 /*# sourceMappingURL=cols.css.map */
