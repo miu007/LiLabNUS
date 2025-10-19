@@ -11,8 +11,10 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="nuclear reprogramming" style="rich" %}
-{% include citation.html lookup="blastocyst" style="rich" %}
+{% include citation.html lookup="A Mesenchymal-to-Epithelial Transition" style="rich" %}
+{% include citation.html lookup="Generation of Blastocyst-like Structures" style="rich" %}
+{% include citation.html lookup="Chemical combinations potentiate" style="rich" %}
+{% include citation.html lookup="Prevalent mesenchymal drift" style="rich" %}
 
 {% include section.html %}
 
