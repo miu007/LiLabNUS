@@ -23,8 +23,7 @@
   image: https://example.com/image-for-10.21203_rs.3.pex-1413_v1.jpg
 
 - id: doi:10.1038/s41467-021-23525-x
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-23525-x/MediaObjects/41467_2021_23525_Fig3_HTML.png?as=webp
-  tags: 
+  image: ../images/publications/nat-comm-2021.png
     - differentiation
     - multicellular
     - diabetes

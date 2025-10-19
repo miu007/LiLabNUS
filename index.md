@@ -26,7 +26,55 @@ At SynDevBio Lab, we strive to overcome these barriers by enhancing cells and mu
 
 {% include section.html %}
 
-## Highlights
+## More About Us
+
+{% capture text %}
+
+We are engineering synthetic structures, we aim to model implantation, lineage specification, and morphogenesis, offering powerful platforms for studying developmental disorders and advancing regenerative medicine.
+
+{%
+  include button.html
+  link="research"
+  text="Browse our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="Research"
+  title="Our Projects"
+  style="bare"
+  text=text
+%}
+
+{% capture text %}
+
+We are a vibriant and multidisciplinary team working together to solve challenging problems and develop therapeutics for human diseases!
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  flip=true
+  text=text
+%}
 
 {% capture text %}
 
@@ -56,50 +104,3 @@ We also generate functional cell types for applications in regenerative medicine
   height="60%"
 %}
 
-{% capture text %}
-
-We are engineering synthetic structures, we aim to model implantation, lineage specification, and morphogenesis, offering powerful platforms for studying developmental disorders and advancing regenerative medicine.
-
-{%
-  include button.html
-  link="research"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="Research"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-We are a vibriant and multidisciplinary team working together to solve challenging problems and develop therapeutics for human diseases!
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
