@@ -1,14 +1,14 @@
 - id: doi:10.1038/s41422-022-00686-y
-  image: https://www.nature.com/articles/s41422-022-00686-y/figures/1
+  image: ../images/publications/cell-res-2022.png
 
 - id: doi:10.1016/j.cell.2022.01.005
-  image: https://www.cell.com/cms/10.1016/j.cell.2022.01.005/asset/558a1e43-aef5-46b2-9f5b-9dee03583678/main.assets/gr1_lrg.jpg
+  image: ../images/publications/cell-2022.png
   
 - id: doi:10.1038/s41422-021-00609-3
   image: https://example.com/image-for-10.1038_s41422-021-00609-3.jpg
 
 - id: doi:10.1016/j.cell.2025.07.031
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867425008530-fx1.jpg
+  image: ../images/publications/cell-2025.png
   tags: 
     - reprogramming
     - aging
@@ -23,15 +23,13 @@
   image: https://example.com/image-for-10.21203_rs.3.pex-1413_v1.jpg
 
 - id: doi:10.1038/s41467-021-23525-x
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-23525-x/MediaObjects/41467_2021_23525_Fig5_HTML.png?as=webp
-  tags: 
+  image: ../images/publications/nat-comm-2021.png
     - differentiation
     - multicellular
     - diabetes
 
 - id: doi:10.1016/j.cell.2019.09.029
-  image: https://www.cell.com/cms/10.1016/j.cell.2019.09.029/asset/129f3c9c-441f-4949-b6c4-78bb60a03110/main.assets/fx1_lrg.jpg
-  tags: 
+  image: ../images/publications/cell-2019.png
     - differentiation
     - multicellular
     - embryogenesis
