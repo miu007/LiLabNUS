@@ -4,11 +4,11 @@
 
 {% capture col1 %}
 
-# Research Focus
+## Research Focus
 
-## Enhance Cells and Multicellular Structure through Synthetic Biology
+Cells are the fundamental units of life. Replacing malfunctioning or degenerative tissues offers a promising path to restoring normal function and curing diseases once thought incurable. However, current cell and tissue therapies still face significant challenges.
 
-At SynDevBio Lab, we engineer multicellular systems to decode developmental biology and pioneer regenerative therapies. By integrating synthetic biology, stem cell culture, and 3D models, we create novel platforms for studying cell fate, disease, and drug discovery.
+At SynDevBio Lab, we strive to overcome these barriers by enhancing cells and multicellular structures through synthetic biology. We engineer cellular systems to decode the principles of developmental biology and pioneer next-generation regenerative therapies. By integrating synthetic biology, stem cell culture, and 3D models, we develop innovative platforms for studying cell fate, disease mechanisms, and drug discovery.
 
 {% endcapture %}
 

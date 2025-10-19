@@ -27,17 +27,6 @@ $one: 500px;
   margin-bottom: 0 !important;
 }
 
-@media (max-width: $two) {
-  .cols {
-    --repeat: min(2, var(--cols));
-  }
-}
-
-@media (max-width: $one) {
-  .cols {
-    --repeat: min(1, var(--cols));
-  }
-}
 
 .cols--split {
   position: relative;
@@ -59,4 +48,18 @@ $one: 500px;
 
 .cols--split {
   gap: 100px; /* or whatever spacing you prefer */
+}
+
+@media (max-width: $two) {
+  .cols,
+  .cols--split {
+    --repeat: min(2, var(--cols));
+  }
+}
+
+@media (max-width: $one) {
+  .cols,
+  .cols--split {
+    --repeat: min(1, var(--cols));
+  }
 }
