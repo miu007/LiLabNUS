@@ -22,7 +22,11 @@
   orcid: 0000-0001-6329-5895
   plugin: sources.py
   file: sources.yaml
-  image: https://example.com/image-for-10.1038_s41467-021-23525-x.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-23525-x/MediaObjects/41467_2021_23525_Fig5_HTML.png?as=webp
+  tags:
+  - differentiation
+  - multicellular
+  - diabetes
 - id: doi:10.21203/rs.3.pex-1413/v1
   title: "Differentiation protocol for generating functional pancreatic \u03B2 cells\
     \ from human pluripotent stem cells"
@@ -65,7 +69,11 @@
   orcid: 0000-0001-6329-5895
   plugin: sources.py
   file: sources.yaml
-  image: https://example.com/image-for-10.1016_j.cell.2019.09.029.jpg
+  image: https://www.cell.com/cms/10.1016/j.cell.2019.09.029/asset/129f3c9c-441f-4949-b6c4-78bb60a03110/main.assets/fx1_lrg.jpg
+  tags:
+  - differentiation
+  - multicellular
+  - embryogenesis
 - id: doi:10.7554/eLife.33417
   title: Mechanism and consequence of abnormal calcium homeostasis in Rett syndrome
     astrocytes
@@ -218,6 +226,8 @@
   description: fibroblast undergo
   tags:
   - reprogramming
+  - EMT
+  - MET
 - id: doi:10.1038/s41422-022-00686-y
   title: Towards capturing of totipotency
   authors:
@@ -270,7 +280,10 @@
   publisher: Cell
   date: '2025-10-01'
   link: https://doi.org/g9w8t2
-  image: https://example.com/image-for-10.1016_j.cell.2025.07.031.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867425008530-fx1.jpg
+  tags:
+  - reprogramming
+  - aging
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s13059-024-03283-x
