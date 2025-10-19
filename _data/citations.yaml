@@ -213,8 +213,8 @@
   orcid: 0000-0001-6329-5895
   plugin: sources.py
   file: sources.yaml
-  image: https://example.com/image-for-10.1016_j.stem.2010.04.014.jpg
-  type: article
+  image: https://www-cell-com.libproxy1.nus.edu.sg/cms/10.1016/j.stem.2010.04.014/asset/f42546f4-623f-44a6-89d7-519bf3836d86/main.assets/fx1.jpg
+  type: Article
   description: fibroblast undergo
   contribution: first-author
 - id: doi:10.1038/s41422-022-00686-y
