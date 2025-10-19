@@ -6,26 +6,48 @@
   
 - id: doi:10.1038/s41422-021-00609-3
   image: https://example.com/image-for-10.1038_s41422-021-00609-3.jpg
+
 - id: doi:10.1016/j.cell.2025.07.031
-  image: https://example.com/image-for-10.1016_j.cell.2025.07.031.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0092867425008530-fx1.jpg
+  tags: 
+    - reprogramming
+    - aging
+
 - id: doi:10.1186/s13059-024-03283-x
   image: https://example.com/image-for-10.1186_s13059-024-03283-x.jpg
+
 - id: doi:10.1016/j.xpro.2021.100745
   image: https://example.com/image-for-10.1016_j.xpro.2021.100745.jpg
+
 - id: doi:10.21203/rs.3.pex-1413/v1
   image: https://example.com/image-for-10.21203_rs.3.pex-1413_v1.jpg
+
 - id: doi:10.1038/s41467-021-23525-x
-  image: https://example.com/image-for-10.1038_s41467-021-23525-x.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-23525-x/MediaObjects/41467_2021_23525_Fig5_HTML.png?as=webp
+  tags: 
+    - differentiation
+    - multicellular
+    - diabetes
+
 - id: doi:10.1016/j.cell.2019.09.029
-  image: https://example.com/image-for-10.1016_j.cell.2019.09.029.jpg
+  image: https://www.cell.com/cms/10.1016/j.cell.2019.09.029/asset/129f3c9c-441f-4949-b6c4-78bb60a03110/main.assets/fx1_lrg.jpg
+  tags: 
+    - differentiation
+    - multicellular
+    - embryogenesis
+
 - id: doi:10.7554/eLife.33417
   image: https://example.com/image-for-10.7554_eLife.33417.jpg
+
 - id: doi:10.1523/JNEUROSCI.3735-16.2017
   image: https://example.com/image-for-10.1523_JNEUROSCI.3735-16.2017.jpg
+
 - id: doi:10.1371/journal.pgen.1006129
   image: https://example.com/image-for-10.1371_journal.pgen.1006129.jpg
+
 - id: doi:10.1093/hmg/ddu008
   image: https://example.com/image-for-10.1093_hmg_ddu008.jpg
+
 - id: doi:10.1074/jbc.M110.139436
   image: https://example.com/image-for-10.1074_jbc.M110.139436.jpg
 
@@ -35,3 +57,5 @@
   description: fibroblast undergo
   tags: 
     - reprogramming
+    - EMT
+    - MET
