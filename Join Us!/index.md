@@ -15,9 +15,9 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 {% capture col1 %}
 
-{% include profile-card.html
+{% include figure.html
    image="images/recruit/3.png"
-   bio="If you hold a PhD and are interested in advancing your research career, please submit your cover letter, CV, and a complete list of publications to our team."
+   caption="If you hold a PhD and are interested in advancing your research career, please submit your cover letter, CV, and a complete list of publications to our team."
 %}
 
 {% endcapture %}
