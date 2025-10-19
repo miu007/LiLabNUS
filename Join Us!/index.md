@@ -64,7 +64,7 @@ We welcome anyone interested in our research to reach out and explore opportunit
 
 {% include section.html %}
 
-## Directions
+## {% include icon.html icon="fa-regular fa-compass" %}Directions
 
 The lab is located on the NUS Kent Ridge campus on the 10th floor of the S9 Wet Science Building. 
 
