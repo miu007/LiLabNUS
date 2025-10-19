@@ -9,6 +9,15 @@ nav:
 
 {% include section.html %}
 
+## Highlighted
+
+{% include citation.html lookup="nuclear reprogramming" style="rich" %}
+{% include citation.html lookup="blastocyst" style="rich" %}
+
+{% include section.html %}
+
+## All
+
 {% include search-box.html %}
 
 {% include search-info.html %}
