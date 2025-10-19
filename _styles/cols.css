@@ -45,13 +45,13 @@
 @media (max-width: 750px) {
   .cols,
   .cols--split {
-    --repeat: min(2, var(--cols));
+    grid-template-columns: repeat(2, 1fr); /* ignore custom ratio */
   }
 }
 @media (max-width: 500px) {
   .cols,
   .cols--split {
-    --repeat: min(1, var(--cols));
+    grid-template-columns: 1fr; /* single column layout */
   }
 }
 
