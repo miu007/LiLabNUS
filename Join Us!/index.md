@@ -10,7 +10,9 @@ nav:
 We seek to build a multidisciplinary and diverse team of scientists and engineers.  Ronghui is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
 
 {% include section.html %}
-## Opportunities
+
+## {% include icon.html icon="fa-solid fa-people-group" %}Opportunities
+
 ### Postdoctoral scholars
 Funding for various postdoctoral opportunities is available on a rolling basis.  If you are interested our research, you are encouraged to send an inquiry and CV to [ronghui.li@nus.edu.sg](mailto:ronghui.li@nus.edu.sg).  We are particularly interested in candidates with expertise in cell biology and regenerative medicine, so if you fit this description please be sure to mention it in your inquiry.
 
