@@ -23,13 +23,13 @@
   image: https://example.com/image-for-10.21203_rs.3.pex-1413_v1.jpg
 
 - id: doi:10.1038/s41467-021-23525-x
-  image: ../images/publications/nat-comm-2021.png
+  image: images/publications/nat-comm-2021.png
     - differentiation
     - multicellular
     - diabetes
 
 - id: doi:10.1016/j.cell.2019.09.029
-  image: ../images/publications/cell-2019.png
+  image: images/publications/cell-2019.png
   tags: 
     - differentiation
     - multicellular
