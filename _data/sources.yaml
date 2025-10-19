@@ -30,7 +30,7 @@
     - diabetes
 
 - id: doi:10.1016/j.cell.2019.09.029
-  image: https://www.cell.com/cms/10.1016/j.cell.2019.09.029/asset/061f677f-a24e-449f-b150-57aa67afcecb/main.assets/fx1.jpg
+  image: ../images/publications/cell-2019.png
   tags: 
     - differentiation
     - multicellular
