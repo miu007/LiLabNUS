@@ -213,10 +213,12 @@
   orcid: 0000-0001-6329-5895
   plugin: sources.py
   file: sources.yaml
-  image: https://www-cell-com.libproxy1.nus.edu.sg/cms/10.1016/j.stem.2010.04.014/asset/f42546f4-623f-44a6-89d7-519bf3836d86/main.assets/fx1.jpg
+  image: https://www.cell.com/cms/10.1016/j.stem.2010.04.014/asset/142db13e-d22e-4e9b-b971-4304a1a5de49/main.assets/fx1_lrg.jpg
   type: Article
   description: fibroblast undergo
   contribution: first-author
+  tags:
+  - reprogramming
 - id: doi:10.1038/s41422-022-00686-y
   title: Towards capturing of totipotency
   authors:
