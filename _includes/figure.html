@@ -18,7 +18,7 @@
     >
   </a>
   {% if include.caption %}
-    <figcaption class="{{ include.caption_class | default: 'figure-caption' }}">
+    <figcaption class="figure-caption">
       {{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}
     </figcaption>
   {% endif %}

@@ -1,9 +1,16 @@
 <div class="profile-card">
   <div class="profile-image">
-    <img src="{{ include.image | relative_url }}" alt="Profile image" />
+    {% if include.image %}
+      {{ include.image | relative_url }}
+    {% endif %}
   </div>
   <div class="profile-text">
-    <p><strong>{{ include.name }}</strong></p>
-    <p>{{ include.bio }}</p>
-    <p><a class="profile-link" href="{{ include.link | relative_url }}">Full Bio →</a></p>
+    {% if include.name %}
+      <p><strong>{{ include.name }}</strong></p>
+    {% endif %}
+    {% if include.bio %}
+      <p>{{ include.bio }}</p>
+    {% endif %}
+    {% if include.show_link and include.link %}
+      <p><a class="profile-link" href="{{ include.link | relative_url }}">Full Bio →</a></p>
 </div>
