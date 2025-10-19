@@ -47,17 +47,13 @@
         {% endif %}
         tabindex="0"
       >
-        {%- assign authors = citation.authors | join: "," | split: "," -%}
-        {%- assign highlighted = "Ronghui Li" -%}
-        {%- for author in authors limit:5 -%}
-          {%- assign trimmed = author | strip -%}
-          {%- if trimmed == highlighted -%}
-            <strong>{{ trimmed }}</strong>
-          {%- else -%}
-            {{ trimmed }}
-          {%- endif -%}
-          {%- unless forloop.last -%}, {% endunless -%}
-        {%- endfor -%}
+        {{
+          citation.authors
+          | join: ","
+          | markdownify
+          | remove: "<p>" | remove: "</p>"
+          | default: "[no author info]"
+        }}
       </div>
 
       <div class="citation-details">
