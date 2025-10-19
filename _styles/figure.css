@@ -18,8 +18,8 @@
 }
 
 .figure-caption {
-  font-style: italic;
-  text-align: center;
+  font-style: normal;
+  text-align: left;
 }
 
 .figure-caption:empty {
