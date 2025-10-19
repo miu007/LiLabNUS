@@ -1,7 +1,9 @@
 - id: doi:10.1038/s41422-022-00686-y
   image: https://www.nature.com/articles/s41422-022-00686-y/figures/1
+
 - id: doi:10.1016/j.cell.2022.01.005
   image: https://www.cell.com/cms/10.1016/j.cell.2022.01.005/asset/558a1e43-aef5-46b2-9f5b-9dee03583678/main.assets/gr1_lrg.jpg
+  
 - id: doi:10.1038/s41422-021-00609-3
   image: https://example.com/image-for-10.1038_s41422-021-00609-3.jpg
 - id: doi:10.1016/j.cell.2025.07.031
@@ -26,6 +28,7 @@
   image: https://example.com/image-for-10.1093_hmg_ddu008.jpg
 - id: doi:10.1074/jbc.M110.139436
   image: https://example.com/image-for-10.1074_jbc.M110.139436.jpg
+
 - id: doi:10.1016/j.stem.2010.04.014
   image: https://www.cell.com/cms/10.1016/j.stem.2010.04.014/asset/142db13e-d22e-4e9b-b971-4304a1a5de49/main.assets/fx1_lrg.jpg
   type: Article
