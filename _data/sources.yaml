@@ -1,5 +1,5 @@
 - id: doi:10.1038/s41422-022-00686-y
-  image: ../images/publications/cell-res-2022.png
+  image: "../images/publications/cell-res-2022.png"
 
 - id: doi:10.1016/j.cell.2022.01.005
   image: ../images/publications/cell-2022.png
@@ -23,7 +23,7 @@
   image: https://example.com/image-for-10.21203_rs.3.pex-1413_v1.jpg
 
 - id: doi:10.1038/s41467-021-23525-x
-  image: ../images/publications/nat-comm-2021.png
+  image: "../images/publications/nat-comm-2021.png"
   tags: 
     - differentiation
     - multicellular
@@ -48,7 +48,7 @@
 - id: doi:10.1093/hmg/ddu008
   image: https://example.com/image-for-10.1093_hmg_ddu008.jpg
 
-- id: doi:10.1074/jbc.M110.139436
+- id: 10.1074/jbc.M110.139436
   image: https://example.com/image-for-10.1074_jbc.M110.139436.jpg
 
 - id: doi:10.1016/j.stem.2010.04.014
