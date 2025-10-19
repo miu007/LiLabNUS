@@ -28,3 +28,6 @@
   image: https://example.com/image-for-10.1074_jbc.M110.139436.jpg
 - id: doi:10.1016/j.stem.2010.04.014
   image: https://example.com/image-for-10.1016_j.stem.2010.04.014.jpg
+  type: article
+  description: fibroblast undergo
+  contribution: first-author
