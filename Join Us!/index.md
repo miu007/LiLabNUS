@@ -17,7 +17,7 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 {% include figure.html
    image="images/recruit/postdoc.png"
-   caption="If you hold a PhD and are interested in advancing your research career, please submit your cover letter, CV, and a complete list of publications to our team."
+   caption="**For postdoc:** If you hold a PhD and are interested in advancing your research career, please submit your cover letter, CV, and a complete list of publications to our team."
 %}
 
 {% endcapture %}
@@ -25,9 +25,9 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 {% capture col2 %}
 
 {% include profile-card.html
-   image="images/recruit/2.png"
+   image="images/recruit/postdoc.png"
    name="For postdoc"
-   bio="Our lab is an integral part of the NUSMed PhD Program. We invite aspiring researchers to contribute to groundbreaking work in genome editing."
+   bio="If you hold a PhD and are interested in advancing your research career, please submit your cover letter, CV, and a complete list of publications to our team."
    show_link=false
 %}
 
