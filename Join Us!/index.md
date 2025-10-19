@@ -13,6 +13,25 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 ## {% include icon.html icon="fa-solid fa-people-group" %}Opportunities
 
+{% capture col1 %}
+
+{% include profile-card.html
+   image="images/recruit/3.png"
+   bio="If you hold a PhD and are interested in advancing your research career, please submit your cover letter, CV, and a complete list of publications to our team."
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include profile-card.html
+   image="images/recruit/2.png"
+   bio="Our lab is an integral part of the NUSMed PhD Program. We invite aspiring researchers to contribute to groundbreaking work in genome editing."
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
 ### Postdoctoral scholars
 Funding for various postdoctoral opportunities is available on a rolling basis.  If you are interested our research, you are encouraged to send an inquiry and CV to [ronghui.li@nus.edu.sg](mailto:ronghui.li@nus.edu.sg).  We are particularly interested in candidates with expertise in cell biology and regenerative medicine, so if you fit this description please be sure to mention it in your inquiry.
 
