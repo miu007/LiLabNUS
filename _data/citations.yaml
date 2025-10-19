@@ -69,7 +69,7 @@
   orcid: 0000-0001-6329-5895
   plugin: sources.py
   file: sources.yaml
-  image: https://www.cell.com/cms/10.1016/j.cell.2019.09.029/asset/061f677f-a24e-449f-b150-57aa67afcecb/main.assets/fx1.jpg
+  image: ../images/publications/cell-2019.png
   tags:
   - differentiation
   - multicellular
