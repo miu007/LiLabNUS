@@ -22,8 +22,11 @@
   orcid: 0000-0001-6329-5895
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/nat-comm-2021.png - differentiation - multicellular
-    - diabetes
+  image: ../images/publications/nat-comm-2021.png
+  tags:
+  - differentiation
+  - multicellular
+  - diabetes
 - id: doi:10.21203/rs.3.pex-1413/v1
   title: "Differentiation protocol for generating functional pancreatic \u03B2 cells\
     \ from human pluripotent stem cells"
@@ -66,8 +69,11 @@
   orcid: 0000-0001-6329-5895
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/cell-2019.png - differentiation - multicellular -
-    embryogenesis
+  image: ../images/publications/cell-2019.png
+  tags:
+  - differentiation
+  - multicellular
+  - embryogenesis
 - id: doi:10.7554/eLife.33417
   title: Mechanism and consequence of abnormal calcium homeostasis in Rett syndrome
     astrocytes
