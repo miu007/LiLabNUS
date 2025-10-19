@@ -22,11 +22,8 @@
   orcid: 0000-0001-6329-5895
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-23525-x/MediaObjects/41467_2021_23525_Fig3_HTML.png?as=webp
-  tags:
-  - differentiation
-  - multicellular
-  - diabetes
+  image: ../images/publications/nat-comm-2021.png - differentiation - multicellular
+    - diabetes
 - id: doi:10.21203/rs.3.pex-1413/v1
   title: "Differentiation protocol for generating functional pancreatic \u03B2 cells\
     \ from human pluripotent stem cells"
