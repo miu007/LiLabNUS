@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-hands-helping" %}Join Us
 
-We seek to build a multidisciplinary and diverse team of scientists and engineers.  Ronghui is committed to providing hands-on training and gradually fostering intellectual independence, while tailoring mentorship to individual needs.
+We’re building a diverse, multidisciplinary team. Ronghui provides hands-on training and personalized mentorship to support growth and independence. We welcome postdocs, PhD candidates, students, and collaborators to reach out to explore opportunities.
 
 {% include section.html %}
 
