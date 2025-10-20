@@ -24,6 +24,7 @@
 
 - id: doi:10.1038/s41467-021-23525-x
   image: images/publications/nat-comm-2021.png
+  tags: 
     - differentiation
     - multicellular
     - diabetes
