@@ -25,7 +25,7 @@ We’re building a diverse, multidisciplinary team. Ronghui provides hands-on tr
 {% capture col2 %}
 
 {% include figure.html
-   image="images/recruit/phd.png"
+   image="images/recruit/phd3.png"
    caption="**For PhD candidates:** We accept graduate students who have already been admitted to the [NUS School of Medicine Graduate Programme](https://medicine.nus.edu.sg/graduatestudies/application-procedures/). If your research interests align with ours, we encourage you to reach out with your CV, academic transcripts, and a brief statement of research interests."
 %}
 
@@ -36,7 +36,7 @@ We’re building a diverse, multidisciplinary team. Ronghui provides hands-on tr
 {% capture col1 %}
 
 {% include figure.html
-   image="images/recruit/undergrad-master.png"
+   image="images/recruit/phd4.png"
    caption="**For undergrad and master students:** We welcome undergraduate and master's students from NUS and beyond who are interested in research opportunities. Our lab accepts students from a variety of programs, including the [UROPS](https://www.science.nus.edu.sg/undergraduates/undergraduate-research/urops/), [Summer UROPS and Summer URAPS for Exchange Students](https://www.science.nus.edu.sg/undergraduates/study-abroad-programmes/incoming/summer-urops/), [FYP](https://www.dbs.nus.edu.sg/lifesciences/lsm4288/), and [Master Research Project](https://nusgs.nus.edu.sg/). We courage you to reach out and explore opportunities to join our team."
 %}
 
