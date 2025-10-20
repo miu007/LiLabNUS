@@ -17,23 +17,42 @@ We seek to build a multidisciplinary and diverse team of scientists and engineer
 
 {% include figure.html
    image="images/recruit/postdoc.png"
-   caption="**For postdoc:** If you hold a PhD and are interested in advancing your research career, please submit your cover letter, CV, and a complete list of publications to our team."
+   caption="**For postdoctoral applicants:** If you hold a PhD and are eager to further your research career, we invite you to submit your cover letter, CV, and a complete list of publications to our team."
 %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include profile-card.html
-   image="images/recruit/postdoc.png"
-   name="For postdoc"
-   bio="If you hold a PhD and are interested in advancing your research career, please submit your cover letter, CV, and a complete list of publications to our team."
-   show_link=false
+{% include figure.html
+   image="images/recruit/postgrad.png"
+   caption="**For PhD candidates:** We accept graduate students who have already been admitted to the NUS School of Medicine Graduate Programme. If your research interests align with ours, we encourage you to reach out with your CV, academic transcripts, and a brief statement of research interests."
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
+
+{% capture col1 %}
+
+{% include figure.html
+   image="images/recruit/postdoc.png"
+   caption="**For postdoctoral applicants:** If you hold a PhD and are eager to further your research career, we invite you to submit your cover letter, CV, and a complete list of publications to our team."
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include figure.html
+   image="images/recruit/postgrad.png"
+   caption="**For PhD candidates:** We accept graduate students who have already been admitted to the NUS School of Medicine Graduate Programme. If your research interests align with ours, we encourage you to reach out with your CV, academic transcripts, and a brief statement of research interests."
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
+
 ### Postdoctoral scholars
 Funding for various postdoctoral opportunities is available on a rolling basis.  If you are interested our research, you are encouraged to send an inquiry and CV to [ronghui.li@nus.edu.sg](mailto:ronghui.li@nus.edu.sg).  We are particularly interested in candidates with expertise in cell biology and regenerative medicine, so if you fit this description please be sure to mention it in your inquiry.
 
