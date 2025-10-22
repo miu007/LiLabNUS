@@ -1,8 +1,8 @@
 ---
 title: News
 nav:
-  order: 6
-  tooltip: Musings and miscellany
+  order: 5
+  tooltip: Our latest
 ---
 
 # {% include icon.html icon="fa-solid fa-bullhorn" %}News

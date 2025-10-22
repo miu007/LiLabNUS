@@ -1,8 +1,4 @@
 ---
-title: Home      # This is the text that will appear in the menu
-nav:
-  order: 1       # This makes it the first item in the menu
-  tooltip: "Back to Home"
 ---
 {% include section.html %}
 
