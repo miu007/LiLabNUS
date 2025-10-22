@@ -1,6 +1,6 @@
 ---
 name: Xinwen Pan
-image: images/headshots/xinwen-pan.jpg
+image: images/headshots/xinwen-pan2.jpg
 email: xinwen.pan@nus.edu.sg
 role: current-postdoc
 links:
