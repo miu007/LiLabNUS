@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-hands-helping" %}Join Us
 
-We’re building a diverse, multidisciplinary team. Ronghui provides hands-on training and personalized mentorship to support growth and independence. We welcome postdocs, PhD candidates, students, and collaborators to reach out to explore opportunities.
+We welcome postdocs, PhD candidates, students, and collaborators to reach out to explore opportunities and work together to solve biomedical problems.
 
 {% include section.html %}
 
