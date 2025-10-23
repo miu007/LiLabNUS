@@ -1,12 +1,14 @@
-- title: Cool Dataset
+- title: partial reprogramming for fibrotic condition
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: This project explores the use of partial cellular reprogramming as a therapeutic strategy to reverse fibrosis, a condition characterized by excessive extracellular matrix deposition and tissue scarring. By transiently activating reprogramming factors, the approach aims to rejuvenate fibrotic cells without erasing their identity, promoting tissue repair while avoiding tumorigenic risks associated with full reprogramming. A critical challenge lies in the precise regulation and delivery of these factors—both spatially and temporally—to ensure controlled reprogramming that is effective yet safe. The team is developing tunable gene circuits and targeted delivery systems to achieve this fine control, enabling localized and reversible modulation of cell states in fibrotic tissues.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - fibrosis
+    - partial-reprogramming
+    - targeted-delivery
 
 - title: Cool Package
   subtitle: a subtitle
