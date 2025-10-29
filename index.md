@@ -12,6 +12,10 @@ At Li Lab, we strive to overcome these barriers by enhancing cells and multicell
 
 {% endcapture %}
 
+<div class="left">
+  {{ col1 | markdownify }}
+</div>
+
 {% capture col2 %}
 
 {% include profile-card.html
@@ -22,6 +26,10 @@ At Li Lab, we strive to overcome these barriers by enhancing cells and multicell
 %}
 
 {% endcapture %}
+
+<div class="left">
+  {{ col2 | markdownify }}
+</div>
 
 {% include cols.html col1=col1 col2=col2 ratio="5fr 3fr" %}
 
