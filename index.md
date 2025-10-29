@@ -29,9 +29,14 @@ At Li Lab, we strive to overcome these barriers by enhancing cells and multicell
 
 ## More About Us
 
-{% capture text %}
-
-We are engineering synthetic structures, we aim to model implantation, lineage specification, and morphogenesis, offering powerful platforms for studying developmental disorders and advancing regenerative medicine.
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="Research"
+  title="Our Projects"
+  style="bare"
+  text="We are engineering synthetic structures, we aim to model implantation, lineage specification, and morphogenesis, offering powerful platforms for studying developmental disorders and advancing regenerative medicine."
+%}
 
 {%
   include button.html
@@ -42,16 +47,6 @@ We are engineering synthetic structures, we aim to model implantation, lineage s
   style="bare"
 %}
 
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="Research"
-  title="Our Projects"
-  style="bare"
-  text=text
-%}
 
 {% capture text %}
 
