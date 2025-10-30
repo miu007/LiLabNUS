@@ -1,7 +1,7 @@
 <div class="profile-card">
   <div class="profile-image">
     {% if include.image %}
-      <img src="{{ include.image | relative_url }}" alt="Profile image" />  
+      {{ include.image | relative_url }}
     {% endif %}
   </div>
   <div class="profile-text">
@@ -12,10 +12,15 @@
       <p>
         {{ include.bio }}
         {% if include.show_link and include.link %}
-          <a class="profile-link-inline" }}Full Bio →</a>
+          {% include button.html
+            link=include.link
+            text="Full Bio"
+            icon="fa-solid fa-arrow-right"
+            flip=true
+            style="bare"
+          %}
         {% endif %}
       </p>
     {% endif %}
   </div>
 </div>
-
