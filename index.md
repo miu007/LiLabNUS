@@ -20,12 +20,20 @@ nav:
 
 ## Lab Head
 
-{% include profile-card.html
+{% include figure.html
    image="images/headshots/ronghui-li.jpeg"
-   name="Ronghui Li, Ph.D."
-   bio="Ronghui received his Ph.D. from the University of Wisconsin-Madison, USA, with a major in Cellular…"
-   link="/members/ronghui-li"
-   show_link=true
+   caption="**Ronghui Li, Ph.D.**"
+%}
+
+Ronghui received his Ph.D. from the University of Wisconsin-Madison, USA, with a major in Cellular
+
+{%
+  include button.html
+  link="/members/ronghui-li"
+  text="Full Bio"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
 %}
 
 {% endcapture %}
