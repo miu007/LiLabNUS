@@ -12,8 +12,8 @@
 
 /* Utility: slightly increase font-size without touching other font properties.
    Use 110% so it scales relative to the paragraph's inherited size. */
-.text-scale-110 {
-  font-size: 110%;
+.text-scale-105 {
+  font-size: 105%;
 }
 
 /*# sourceMappingURL=util.css.map */
