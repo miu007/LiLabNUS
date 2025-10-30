@@ -6,7 +6,7 @@
   </div>
   <div class="profile-text">
     {% if include.name %}
-      <p><strong>{{ include.name }}</strong></p>
+      <p class="profile-name"><strong>{{ include.name }}</strong></p>
     {% endif %}
     {% if include.bio %}
       <p>{{ include.bio }} {% if include.show_link and include.link %} {% include button.html link=include.link text="Full Bio" icon="fa-solid fa-arrow-right" flip=true style="bare" %} {% endif %}</p>
