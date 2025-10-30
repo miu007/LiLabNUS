@@ -16,7 +16,8 @@
 
 {% include profile-card.html
    image="images/headshots/ronghui-li.jpeg"
-   bio="Ronghui Li, Ph.D., received his Ph.D. from the University of Wisconsin-Madison, USA, with a major in Cellular…"
+   name="Ronghui Li, Ph.D."
+   bio="Ronghui received his Ph.D. from the University of Wisconsin-Madison, USA, with a major in Cellular…"
    link="/members/ronghui-li"
    show_link=true
 %}
