@@ -17,19 +17,21 @@ We welcome postdocs, PhD candidates, students, and collaborators to reach out to
 
 {% include figure.html
    image="images/recruit/postdoc8.png"
-   caption="**For postdoctoral applicants:** If you hold a PhD and are eager to further your research career with us, we invite you to submit your cover letter, CV, and a complete list of publications to our team."
+   caption="**For postdoctoral applicants**
 %}
 
-**For postdoctoral applicants:** If you hold a PhD and are eager to further your research career with us, we invite you to submit your cover letter, CV, and a complete list of publications to our team.
+If you hold a PhD and are eager to further your research career with us, we invite you to submit your cover letter, CV, and a complete list of publications to our team.
 
 {% endcapture %}
 
 {% capture col2 %}
 
 {% include figure.html
-   image="images/recruit/undergrad-master3.png"
-   caption="**For PhD candidates:** We accept graduate students who have already been admitted to the [NUS School of Medicine Graduate Programme](https://medicine.nus.edu.sg/graduatestudies/application-procedures/). If your research interests align with ours, we encourage you to reach out with your CV, academic transcripts, and a brief statement of research interests."
+   image="images/recruit/phd6.png"
+   caption="**For PhD candidates**"
 %}
+
+We accept graduate students who have already been admitted to the [NUS School of Medicine Graduate Programme](https://medicine.nus.edu.sg/graduatestudies/application-procedures/). If your research interests align with ours, we encourage you to reach out with your CV, academic transcripts, and a brief statement of research interests.
 
 {% endcapture %}
 
