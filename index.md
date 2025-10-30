@@ -20,10 +20,13 @@ nav:
 
 ## Lab Head
 
+<div class="figure special-margin">
 {% include figure.html
    image="images/headshots/ronghui-li.jpeg"
+   link="/members/ronghui-li"
    caption="**Ronghui Li, Ph.D.**"
 %}
+</div>
 
 {%
   include button.html
