@@ -68,4 +68,8 @@
   color: var(--text-muted);
 }
 
+.special-margin {
+  margin: 30px 0; /* or whatever value you want */
+}
+
 /*# sourceMappingURL=figure.css.map */
