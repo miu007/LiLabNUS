@@ -1,4 +1,7 @@
 ---
+nav:
+  order: 1
+  title: Home
 ---
 {% include section.html %}
 
