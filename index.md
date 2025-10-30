@@ -14,6 +14,8 @@
 
 {% capture col2 %}
 
+## Lab Head
+
 {% include profile-card.html
    image="images/headshots/ronghui-li.jpeg"
    name="Ronghui Li, Ph.D."
