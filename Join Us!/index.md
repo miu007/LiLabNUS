@@ -41,7 +41,7 @@ We accept graduate students who have already been admitted to the [NUS School of
 
 {% include figure.html
    image="images/recruit/undergrad3.png"
-   caption="**For undergrad and master students:**"
+   caption="**For undergrad and master students**"
 %}
 
  We welcome undergraduate and master's students from NUS and beyond who are interested in research opportunities. Our lab accepts students from a variety of programs, including the [UROPS](https://www.science.nus.edu.sg/undergraduates/undergraduate-research/urops/), [Summer UROPS and Summer URAPS for Exchange Students](https://www.science.nus.edu.sg/undergraduates/study-abroad-programmes/incoming/summer-urops/), [FYP](https://www.dbs.nus.edu.sg/lifesciences/lsm4288/), and [Master Research Project](https://nusgs.nus.edu.sg/). We courage you to reach out and explore opportunities to join our team.
@@ -52,7 +52,7 @@ We accept graduate students who have already been admitted to the [NUS School of
 
 {% include figure.html
    image="images/recruit/collab3.png"
-   caption="**For collaborators:**"
+   caption="**For collaborators**"
 %}
 
 We welcome collaboration with researchers, clinicians, and industry partners who share our interest in synthetic biology, developmental biology, and bioengineeringIf you're interested in working together, please feel free to reach out. We're excited to build meaningful partnerships across institutions and disciplines.
