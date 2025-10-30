@@ -25,6 +25,7 @@
   margin-top: 0.5rem;
   color: var(--text);
   font-size: var(--xl);
+  text-align: center;
 }
 
 .profile-link {
@@ -35,7 +36,6 @@
 }
 
 .profile-name {
-  text-align: center;
-  margin: 0.5em 0;
+  text-align: center !important;
 }
 
