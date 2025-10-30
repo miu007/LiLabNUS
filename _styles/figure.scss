@@ -7,7 +7,6 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
-  border: 2px dashed #1e00ff; /* This adds a visible border */
   margin: 40px 0;
 }
 
@@ -73,5 +72,5 @@
 }
 
 .special-margin {
-  margin: 20px 0; /* or whatever value you want */
+  margin: -10px 0; /* or whatever value you want */
 }

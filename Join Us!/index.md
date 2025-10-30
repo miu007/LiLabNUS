@@ -16,9 +16,11 @@ We welcome postdocs, PhD candidates, students, and collaborators to reach out to
 {% capture col1 %}
 
 {% include figure.html
-   image="images/recruit/postdoc7.png"
+   image="images/recruit/postdoc8.png"
    caption="**For postdoctoral applicants:** If you hold a PhD and are eager to further your research career with us, we invite you to submit your cover letter, CV, and a complete list of publications to our team."
 %}
+
+**For postdoctoral applicants:** If you hold a PhD and are eager to further your research career with us, we invite you to submit your cover letter, CV, and a complete list of publications to our team.
 
 {% endcapture %}
 
