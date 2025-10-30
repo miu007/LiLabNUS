@@ -16,7 +16,7 @@ We welcome postdocs, PhD candidates, students, and collaborators to reach out to
 {% capture col1 %}
 
 {% include figure.html
-   image="images/recruit/postdoc8.png"
+   image="images/recruit/postdoc9.png"
    caption="**For postdoctoral applicants**"
 %}
 
@@ -40,7 +40,7 @@ We accept graduate students who have already been admitted to the [NUS School of
 {% capture col1 %}
 
 {% include figure.html
-   image="images/recruit/undergrad2.png"
+   image="images/recruit/undergrad3.png"
    caption="**For undergrad and master students:**"
 %}
 
@@ -51,7 +51,7 @@ We accept graduate students who have already been admitted to the [NUS School of
 {% capture col2 %}
 
 {% include figure.html
-   image="images/recruit/collab2.png"
+   image="images/recruit/collab3.png"
    caption="**For collaborators:**"
 %}
 
