@@ -20,7 +20,7 @@ nav:
 
 ## Lab Head
 
-<div class="figure special-margin">
+<div class="special-margin">
 {% include figure.html
    image="images/headshots/ronghui-li.jpeg"
    link="/members/ronghui-li"
