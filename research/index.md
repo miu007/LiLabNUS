@@ -29,6 +29,22 @@ The vision of regenerative medicine starts with reprogramming patient's own cell
 
 {% include section.html %}
 
+## Projects
+
+{% capture text %}
+
+Stem cell derived beta cell holds great promise for treating type 1 diabetes. However, current differentiation protocols produce a heterogeneous population of cells, including off-target cell types that may compromise the safety and efficacy of cell therapy. Our lab is working on understanding the molecular mechanisms that govern beta cell differentiation and using this knowledge to improve the efficiency and purity of stem cell-derived beta cells for cell therapy applications.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Tackle the heterogeneity of stem cell derived beta cells for cell therapy"
+  style="bare"
+  text=text
+%}
+
 ## Featured
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
