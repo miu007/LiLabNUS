@@ -55,7 +55,7 @@ We accept graduate students who have already been admitted to the [NUS School of
    caption="**For collaborators**"
 %}
 
-We welcome collaboration with researchers, clinicians, and industry partners who share our interest in synthetic biology, developmental biology, and bioengineeringIf you're interested in working together, please feel free to reach out. We're excited to build meaningful partnerships across institutions and disciplines.
+We welcome collaboration with researchers, clinicians, and industry partners who share our interest in synthetic biology, developmental biology, and bioengineering. If you're interested in working together, please feel free to reach out. We're excited to build meaningful partnerships across institutions and disciplines.
 
 {% endcapture %}
 
