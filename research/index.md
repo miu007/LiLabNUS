@@ -21,9 +21,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 The vision of regenerative medicine starts with reprogramming patient's own cells to induced pluripotent stem cells (iPSCs) that can then be differentiated into any cell type of interest. these cells can be undergoing differntiation in vitro to model human development in 3D organoids format and used for disease modeling and drug screening. Alternatively, these cells can be directly differentiated into specific cell types for cell therapy applications. Our lab is interested in understanding the molecular mechanisms that govern cell fate decisions during human development and leveraging this knowledge to improve the efficiency and safety of cell reprogramming and differentiation processes for regenerative medicine applications.
 
 {% include figure.html
-   image="images/research/stem-cell-orgnanoid.png"
+   image="images/research/stem-cell-organoid.png"
    link="https://www-nature-com.libproxy1.nus.edu.sg/articles/s41392-022-01024-9/figures/1"
    caption="**stem cell and orgnanoids**"
+   width="50%"
 %}
 
 {% include section.html %}
