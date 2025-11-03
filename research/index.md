@@ -27,6 +27,12 @@ The vision of regenerative medicine starts with reprogramming patient's own cell
    width="50%"
 %}
 
+{% include figure.html
+   image="images/research/stem-cell-organoid_redesign.png"
+   caption="**stem cell and orgnanoids**"
+   width="50%"
+%}
+
 {% include section.html %}
 
 ## Projects
