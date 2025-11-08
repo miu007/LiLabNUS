@@ -13,41 +13,21 @@ We welcome postdocs, PhD candidates, students, and collaborators to reach out to
 
 ## {% include icon.html icon="fa-solid fa-people-group" %}Opportunities
 
-{% capture col1 %}
-
 **For postdoctoral applicants**
 
-If you hold a PhD and are eager to further your research career with us, we invite you to submit your cover letter, CV, and a complete list of publications to our team.
-
-{% endcapture %}
-
-{% capture col2 %}
+If you hold a PhD degree and are eager to further your research career with us, we invite you to submit your cover letter, CV, and a complete list of publications to our team. Experiences in cell culture, gene editing, organoid culture, and stem cell bioengineering are preferred but not required. 
 
 **For PhD candidates**
 
-We accept graduate students who have already been admitted to the [NUS School of Medicine Graduate Programme](https://medicine.nus.edu.sg/graduatestudies/application-procedures/). If your research interests align with ours, we encourage you to reach out with your CV, academic transcripts, and a brief statement of research interests.
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% capture col1 %}
+We accept graduate students who have already been admitted to the [NUS School of Medicine Graduate Programme](https://medicine.nus.edu.sg/graduatestudies/application-procedures/). If your research interests align with ours, we encourage you to reach out with your CV, academic transcripts, and a brief statement of research interests. 
 
 **For undergrad and master students**
 
 We welcome undergraduate and master's students from NUS and beyond who are interested in research opportunities. Our lab accepts students from a variety of programs, including the [UROPS](https://www.science.nus.edu.sg/undergraduates/undergraduate-research/urops/), [Summer UROPS and Summer URAPS for Exchange Students](https://www.science.nus.edu.sg/undergraduates/study-abroad-programmes/incoming/summer-urops/), [FYP](https://www.dbs.nus.edu.sg/lifesciences/lsm4288/), and [Master Research Project](https://nusgs.nus.edu.sg/). We courage you to reach out and explore opportunities to join our team.
 
-{% endcapture %}
-
-{% capture col2 %}
-
 **For collaborators**
 
 We welcome collaboration with researchers, clinicians, and industry partners who share our interest in synthetic biology, developmental biology, and bioengineering. If you're interested in working together, please feel free to reach out. We're excited to build meaningful partnerships across institutions and disciplines.
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
 
