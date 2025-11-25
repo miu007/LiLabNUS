@@ -5,6 +5,6 @@
 
   # miu007's Website
 
-  Visit **[miu007.github.io/LiLabNUS](https://miu007.github.io/LiLabNUS)** 🚀
+  Visit **[syndevbiolab.org](http://syndevbiolab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
