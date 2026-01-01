@@ -23,9 +23,9 @@
 }
 
 :root {
-  --title: "Merriweather", serif;
-  --heading: "Merriweather", serif;
-  --body: "Inter", sans-serif;
+  --title: "Roboto", sans-serif;
+  --heading: "Roboto", sans-serif;
+  --body: "Arial", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
