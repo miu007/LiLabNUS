@@ -12,7 +12,7 @@ nav:
   {% include figure.html 
   image="images/res_bg.png"
   width="100%"
-  caption="Stem cell engineering" 
+  caption="**Stem cell engineering**" 
   %}
 {% endcapture %}
 
