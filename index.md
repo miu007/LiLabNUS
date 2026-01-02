@@ -12,7 +12,7 @@ nav:
   {% include figure.html 
   image="images/bg5.png"
   width="100%"
-  caption="**Stem cell engineering**" 
+  caption="**Cell and tissue engineering**" 
   %}
 {% endcapture %}
 
@@ -22,9 +22,9 @@ nav:
   flip=true
 %}
 
-Cells are the fundamental units of life. Replacing malfunctioning or degenerative tissues offers a promising path to restoring normal function and curing diseases once thought incurable. However, current cell and tissue therapies still face significant challenges.
+<div class="left">Cells are the fundamental units of life. Replacing malfunctioning or degenerative tissues offers a promising path to restoring normal function and curing diseases once thought incurable. However, current cell and tissue therapies still face significant challenges.</div>
 
-At the Li Lab, we strive to overcome these barriers by enhancing cells and multicellular structures through synthetic biology. We engineer cellular systems to decode the principles of developmental biology and pioneer next-generation regenerative therapies. By integrating synthetic biology, stem cell culture, and 3D models, we develop innovative platforms for studying cell fate, disease mechanisms, and drug discovery.
+<div class="left">At the Li Lab, we strive to overcome these barriers by enhancing cells and multicellular structures through synthetic biology. We engineer cellular systems to decode the principles of developmental biology and pioneer next-generation regenerative therapies. By integrating synthetic biology, stem cell culture, and 3D models, we develop innovative platforms for studying cell fate, disease mechanisms, and drug discovery.</div>
 
 {% include float.html clear=true %}
 
