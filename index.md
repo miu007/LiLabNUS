@@ -8,23 +8,25 @@ nav:
 
 ## Research Focus
 
-{% capture text %}
-
-<p class="text-scale-105">Cells are the fundamental units of life. Replacing malfunctioning or degenerative tissues offers a promising path to restoring normal function and curing diseases once thought incurable. However, current cell and tissue therapies still face significant challenges.</p>
-
-<p class="text-scale-105">At the Li Lab, we strive to overcome these barriers by enhancing cells and multicellular structures through synthetic biology. We engineer cellular systems to decode the principles of developmental biology and pioneer next-generation regenerative therapies. By integrating synthetic biology, stem cell culture, and 3D models, we develop innovative platforms for studying cell fate, disease mechanisms, and drug discovery.</p>
-
+{% capture content %}
+  {% include figure.html 
+  image="images/res_bg.png"
+  width="100%"
+  title="**Stem cell engineering**" 
+  %}
 {% endcapture %}
 
 {%
-  include feature.html
-  image="images/res_bg.png"
-  width="100%"
-  title="**Stem cell engineering**"
+  include float.html
+  content=content
   flip=true
-  text=text
 %}
 
+Cells are the fundamental units of life. Replacing malfunctioning or degenerative tissues offers a promising path to restoring normal function and curing diseases once thought incurable. However, current cell and tissue therapies still face significant challenges.
+
+At the Li Lab, we strive to overcome these barriers by enhancing cells and multicellular structures through synthetic biology. We engineer cellular systems to decode the principles of developmental biology and pioneer next-generation regenerative therapies. By integrating synthetic biology, stem cell culture, and 3D models, we develop innovative platforms for studying cell fate, disease mechanisms, and drug discovery.
+
+{% include float.html clear=true %}
 
 {% include section.html %}
 
