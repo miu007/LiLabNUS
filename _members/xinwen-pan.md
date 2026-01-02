@@ -3,6 +3,8 @@ name: Xinwen Pan
 image: images/headshots/xinwen-pan2.jpg
 email: xinwen.pan@nus.edu.sg
 role: current-postdoc
+aliases:
+  - Xinwen Pan
 links:
   orcid: 0009-0007-2044-5356 
 ---

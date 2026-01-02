@@ -5,6 +5,7 @@ role: pi
 aliases:
   - Ron Li
   - R. Li
+  - Ronghui Li
 links:
   google-scholar: LgS14ZAAAAAJ&hl
   orcid: 0000-0001-6329-5895
