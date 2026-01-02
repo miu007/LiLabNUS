@@ -6,7 +6,7 @@ nav:
 ---
 {% include section.html %}
 
-{% capture text %}
+{% capture col1 %}
 
 ## Research Focus
 
@@ -16,14 +16,30 @@ nav:
 
 {% endcapture %}
 
+{% capture col2 %}
+
+## Lab Head
+
+<div class="special-margin">
+{% include figure.html
+   image="images/headshots/ronghui-li.jpeg"
+   link="/members/ronghui-li"
+   caption="**Ronghui Li, Ph.D.**"
+%}
+</div>
+
 {%
-  include feature.html
-  image="images/res-bg.png"
-  title="Stem cell engineering"
+  include button.html
+  link="/members/ronghui-li"
+  text="Ronghui's Bio"
+  icon="fa-solid fa-arrow-right"
+  flip=true
   style="bare"
-  text=text
 %}
 
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 ratio="5fr 3fr" %}
 
 {% include section.html %}
 
