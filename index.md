@@ -6,9 +6,11 @@ nav:
 ---
 {% include section.html %}
 
-{% capture col1 %}
+<!-- {% capture col1 %} -->
 
 ## Research Focus
+
+{% capture text %}
 
 <p class="text-scale-105">Cells are the fundamental units of life. Replacing malfunctioning or degenerative tissues offers a promising path to restoring normal function and curing diseases once thought incurable. However, current cell and tissue therapies still face significant challenges.</p>
 
@@ -16,7 +18,16 @@ nav:
 
 {% endcapture %}
 
-{% capture col2 %}
+{%
+  include feature.html
+  image="images/res_bg.png"
+  width="100%"
+  title="**Stem cell engineering**"
+  flip=true
+  text=text
+%}
+
+<!-- {% capture col2 %}
 
 <div class="special-margin">
 {% include figure.html
@@ -25,18 +36,18 @@ nav:
 %}
 </div>
 
-<!-- {%
+{%
   include button.html
   link="/members/ronghui-li"
   text="Ronghui's Bio"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-%} -->
+%}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 ratio="5fr 5fr" %}
+{% include cols.html col1=col1 col2=col2 ratio="5fr 5fr" %} -->
 
 {% include section.html %}
 
