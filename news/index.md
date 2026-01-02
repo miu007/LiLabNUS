@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-bullhorn" %}News
 
-Catch up on what we have been up to...
-
 {% include section.html %}
 
 {% include search-box.html %}
