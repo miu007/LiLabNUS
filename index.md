@@ -1,5 +1,6 @@
 ---
 title: Home
+header-big: True
 nav:
   order: 1
   tooltip: Home
